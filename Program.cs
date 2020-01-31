@@ -6,7 +6,7 @@ namespace UserInputChadAlly
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi, this is Chad Ally");
         }
     }
 }
